@@ -10,7 +10,7 @@ HeatWave GenAI allows you to perform natural language queries on unstructured da
 ## Getting Started
 
 ### Prerequisites
-**HeatWave-Enabled Database System**: Ensure you have a database system with HeatWave enabled. Refer to the [Getting Started with MySQL HeatWave on OCI]( https://www.oracle.com/developer/getting-started-with-mysql-heatwave-on-oci/) guide for setup instructions.
+**HeatWave-Enabled Database System**: Ensure you have a database system with HeatWave enabled (version 9.1 or above). Refer to the [Getting Started with MySQL HeatWave on OCI]( https://www.oracle.com/developer/getting-started-with-mysql-heatwave-on-oci/) guide for setup instructions.
 
 ### Steps
 
